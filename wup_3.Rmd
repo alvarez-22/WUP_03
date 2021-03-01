@@ -64,5 +64,5 @@ The TukeyHSD Plot shows that the people in the back drink a lot more than the pe
   
 ## Conclusions
   
-The evidence shows that the most people that consume alcohol tend to sit in the back of the class.   
+The evidence shows that most of the people that consume alcohol tend to sit in the back of the class.   
   
